@@ -4,4 +4,3 @@
 
 - 🌱 I’m currently learning java
 - 📫 How to reach me: allen.zhang0828@gmail.com
-- ⚡ Fun fact: emmmm
