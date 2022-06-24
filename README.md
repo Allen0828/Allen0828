@@ -2,5 +2,5 @@
 
 ### 011
 
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Metal.kit
 - 📫 How to reach me: allen.zhang0828@gmail.com
